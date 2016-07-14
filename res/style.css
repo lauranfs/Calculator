@@ -1,0 +1,10 @@
+.button-special {
+    -fx-background-color: bisque;
+}
+.button-number {
+    -fx-background-color: beige;
+}
+
+#input-field{
+      -fx-font-weight: bold;
+}
